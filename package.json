@@ -1,0 +1,15 @@
+{
+  "name": "bhagwad-geeta",
+  "version": "1.0.1",
+  "description": "A Library based on the song of God",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "sxlitudee",
+  "license": "ISC",
+  "dependencies": {
+    "phin": "^3.6.1"
+  }
+}
